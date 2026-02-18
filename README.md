@@ -1,3 +1,4 @@
+
 #Dogrammer - 次时代编程
 
 ##简介
@@ -90,3 +91,6 @@ aclass -->
 myclass = aclass()
 aclass(func())
 '''
+
+# dogrammer
+by aman-in-wu
