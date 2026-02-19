@@ -1,4 +1,3 @@
-
 #Dogrammer - 次时代编程
 
 ##简介
@@ -13,7 +12,7 @@ add(1, 2)
 '''
 
 ##文件名
-dogrammer的文件名一般是.dog🐶🐶🐶
+dogrammer的文件名一般是.dog 🐶🐶🐶
 
 ##运行时机 #后是运行时机，包括但不限于:
 '''dogrammer
@@ -37,13 +36,13 @@ dogrammer的文件名一般是.dog🐶🐶🐶
 推荐写运行时机，没有运行时机编译器会提醒你并让你要不要现在运行
 这样:
 waring:no run time,
-do you want to run at now?(y/n)
+do you want to run at now?:(y/n)
 
 ##缩进
 dogrammer有强制缩进，大小两个空格
 
 ##编译器
-dogrammer的编译器我会设计的较为智能，例如:
+dogrammer的编译器会设计的较为智能，例如:
 error!: math(a+b in line1 has a Parentheseserror
 the dog's suggestion:to fix it,you can try math(a+b)
 woof woof
@@ -64,6 +63,7 @@ input()--输入--
 --变量定义--
 a = 1
 log(a)
+
 --函数定义--
 add() ->
   back(math(a+b)) --返回--
