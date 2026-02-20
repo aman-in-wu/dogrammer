@@ -25,9 +25,9 @@ dogrammer的文件名一般是.dog 🐶🐶🐶
 #Don't show waring:Runtimewaring --不显示特定警告--
 #Don't show any waring --不显示所有警告--
 #Langrage Chinese --切换编译器语言为中文--
-'''
+```
 想要多个条件，可以:
-'''dogrammer
+```dogrammer
 #Run all
 #Langrage Chinese
 
