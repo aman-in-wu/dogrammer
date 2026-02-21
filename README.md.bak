@@ -24,7 +24,7 @@ dogrammer的文件名一般是.dog 🐶🐶🐶
 #Don't show any error --不显示所有错误--
 #Don't show waring:Runtimewaring --不显示特定警告--
 #Don't show any waring --不显示所有警告--
-#Langrage Chinese --切换解释器语言为中文--
+#Langrage Chinese --切换编译器语言为中文--
 ```
 想要多个条件，可以:
 ```dogrammer
@@ -33,7 +33,7 @@ dogrammer的文件名一般是.dog 🐶🐶🐶
 
 --扣子--
 ```
-推荐写运行时机，没有运行时机解释器会提醒你并让你要不要现在运行:
+推荐写运行时机，没有运行时机编译器会提醒你并让你要不要现在运行
 这样:
 waring:no run time,
 do you want to run at now?:(y/n)
@@ -41,8 +41,8 @@ do you want to run at now?:(y/n)
 ##缩进
 dogrammer有强制缩进，大小两个空格
 
-##解释器
-dogrammer的解释器会设计的较为智能，例如:
+##编译器
+dogrammer的编译器会设计的较为智能，例如:
 error!: math(a+b in line1 has a Parentheseserror
 the dog's suggestion:to fix it,you can try math(a+b)
 woof woof
